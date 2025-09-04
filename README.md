@@ -5,7 +5,7 @@ Welcome to my Deep Learning project portfolio!
 This repository contains various real-world projects developed using deep learning techniques.
 
 ## 🔍 Computer Vision Projects
-### 1. 🧑‍💻 Face Recognition with Liveness Detection & Attendance System 
+### 🧑‍💻 Face Recognition with Liveness Detection & Attendance System 
 https://github.com/Subith-Varghese/FaceSecure-Attendance
 
 A secure face recognition system that prevents spoofing and automatically logs attendance. Integrates:
@@ -16,16 +16,16 @@ A secure face recognition system that prevents spoofing and automatically logs a
 
 ### Key Features
 
-- ✅ Multi-face detection
-- ✅ Anti-spoofing via CNN-based liveness detection
-- ✅ Real-time recognition & attendance logging
-- ✅ User-friendly registration system
-- ✅ Scalable database of registered users
+-  Multi-face detection
+-  Anti-spoofing via CNN-based liveness detection
+-  Real-time recognition & attendance logging
+-  User-friendly registration system
+-  Scalable database of registered users
 
 Tech Stack
 Python | PyTorch/Facenet | YOLOv11 | TensorFlow/Keras | OpenCV | NumPy | Scikit-learn
 
-### 2. ✅ Face Mask Detection (with MobileNetV2)  
+### 😷 Face Mask Detection (with MobileNetV2)  
 https://github.com/Subith-Varghese/Face_Mask_Detector
 A complete end-to-end project for real-time face mask detection using MobileNetV2 (transfer learning), MTCNN (Face Detection), and a Flask web application.
 Key Features
@@ -57,7 +57,7 @@ Key Features
 Tech Stack
 Python | TensorFlow/Keras | Word2Vec | LSTM | Flask | NLP
 
-Example Prediction
+### Example Prediction
 Input: "This movie was absolutely fantastic! Brilliant acting and storyline."
 
 Sentiment → Positive ✅
@@ -67,7 +67,7 @@ Stars → ★★★★⯪
 
 ---
 
-### 2. ✅ Fake News Detector (LSTM + Word2Vec) 
+###  Fake News Detector (LSTM + Word2Vec) 
 https://github.com/Subith-Varghese/Fake_news_detector
 A deep learning application that detects whether a news article is Fake or Real using LSTM with Word2Vec embeddings.
 
