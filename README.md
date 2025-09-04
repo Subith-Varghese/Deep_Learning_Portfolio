@@ -8,6 +8,7 @@ This repository contains various real-world projects developed using deep learni
 ### 🧑‍💻 Face Recognition with Liveness Detection & Attendance System 
 https://github.com/Subith-Varghese/FaceSecure-Attendance
 
+---
 A secure face recognition system that prevents spoofing and automatically logs attendance. Integrates:
 
 - YOLOv11 → Face detection
@@ -29,6 +30,8 @@ Python | PyTorch/Facenet | YOLOv11 | TensorFlow/Keras | OpenCV | NumPy | Scikit-
 
 ### 😷 Face Mask Detection (with MobileNetV2)  
 https://github.com/Subith-Varghese/Face_Mask_Detector
+
+--- 
 A complete end-to-end project for real-time face mask detection using MobileNetV2 (transfer learning), MTCNN (Face Detection), and a Flask web application.
 Key Features
 
@@ -48,6 +51,8 @@ Example Outputs
 
 ### 🎬 Movie Review Sentiment Analysis (LSTM + Word2Vec)
 https://github.com/Subith-Varghese/Moview_Review_Sentiment_Analysis/tree/main
+
+---
 An end-to-end solution to analyze IMDb movie reviews and classify them as Positive, Neutral, or Negative with star ratings.
 
 Key Features
@@ -75,6 +80,8 @@ Stars → ★★★★⯪
 
 ###  Fake News Detector (LSTM + Word2Vec) 
 https://github.com/Subith-Varghese/Fake_news_detector
+
+---
 A deep learning application that detects whether a news article is Fake or Real using LSTM with Word2Vec embeddings.
 
 ### Key Features
