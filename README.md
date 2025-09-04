@@ -6,9 +6,9 @@ This repository contains various real-world projects developed using deep learni
 
 ## 🔍 Computer Vision Projects
 ### 🧑‍💻 Face Recognition with Liveness Detection & Attendance System 
-https://github.com/Subith-Varghese/FaceSecure-Attendance
+https://github.com/Subith-Varghese/FaceSecure-Attendance .
 
--
+
 A secure face recognition system that prevents spoofing and automatically logs attendance. Integrates:
 
 - YOLOv11 → Face detection
