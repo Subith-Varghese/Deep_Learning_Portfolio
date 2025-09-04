@@ -60,10 +60,12 @@ Python | TensorFlow/Keras | Word2Vec | LSTM | Flask | NLP
 ### Example Prediction
 Input: "This movie was absolutely fantastic! Brilliant acting and storyline."
 
+```
 Sentiment → Positive ✅
 Probability → 0.93
 Rating → 4.5 / 5
 Stars → ★★★★⯪
+```
 
 ---
 
