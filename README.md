@@ -25,6 +25,8 @@ A secure face recognition system that prevents spoofing and automatically logs a
 Tech Stack
 Python | PyTorch/Facenet | YOLOv11 | TensorFlow/Keras | OpenCV | NumPy | Scikit-learn
 
+---
+
 ### 😷 Face Mask Detection (with MobileNetV2)  
 https://github.com/Subith-Varghese/Face_Mask_Detector
 A complete end-to-end project for real-time face mask detection using MobileNetV2 (transfer learning), MTCNN (Face Detection), and a Flask web application.
@@ -39,6 +41,8 @@ Example Outputs
  - ✅ Green box → Mask detected
  - ❌ Red box → No Mask
  - ⚠️ Yellow box → Unknown (low confidence)
+
+---
 
 ## 🧠 NLP Projects
 
