@@ -5,7 +5,7 @@ Welcome to my Deep Learning project portfolio!
 This repository contains various real-world projects developed using deep learning techniques.
 
 ## 🔍 Computer Vision Projects
-### 1. 🧑‍💻 Face Recognition with Liveness Detection & Attendance System
+### 1. 🧑‍💻 Face Recognition with Liveness Detection & Attendance System https://github.com/Subith-Varghese/FaceSecure-Attendance
 
 A secure face recognition system that prevents spoofing and automatically logs attendance. Integrates:
 
@@ -24,7 +24,7 @@ A secure face recognition system that prevents spoofing and automatically logs a
 Tech Stack
 Python | PyTorch/Facenet | YOLOv11 | TensorFlow/Keras | OpenCV | NumPy | Scikit-learn
 
-### 1. ✅ Face Mask Detection (with MobileNetV2)  https://github.com/Subith-Varghese/Face_Mask_Detector
+### 2. ✅ Face Mask Detection (with MobileNetV2)  https://github.com/Subith-Varghese/Face_Mask_Detector
 A complete end-to-end project for real-time face mask detection using MobileNetV2 (transfer learning), MTCNN (Face Detection), and a Flask web application.
 Key Features
 
@@ -40,7 +40,32 @@ Example Outputs
 
 ## 🧠 NLP Projects
 
-### 1. ✅ Fake News Detector (LSTM + Word2Vec) https://github.com/Subith-Varghese/Fake_news_detector
+### 🎬 Movie Review Sentiment Analysis (LSTM + Word2Vec)
+
+An end-to-end solution to analyze IMDb movie reviews and classify them as Positive, Neutral, or Negative with star ratings.
+
+Key Features
+
+- 📥 IMDb dataset integration (50,000 movie reviews)
+- 🔤 Text preprocessing, tokenization, Word2Vec embeddings
+- 🧑‍💻 LSTM-based deep learning model for sentiment classification
+- 🌐 RESTful Flask web app for real-time predictions
+- ⭐ Assigns star rating (0.5⭐ – 5⭐) with probability score
+
+Tech Stack
+Python | TensorFlow/Keras | Word2Vec | LSTM | Flask | NLP
+
+Example Prediction
+Input: "This movie was absolutely fantastic! Brilliant acting and storyline."
+
+Sentiment → Positive ✅
+Probability → 0.93
+Rating → 4.5 / 5
+Stars → ★★★★⯪
+
+---
+
+### 2. ✅ Fake News Detector (LSTM + Word2Vec) https://github.com/Subith-Varghese/Fake_news_detector
 A deep learning application that detects whether a news article is Fake or Real using LSTM with Word2Vec embeddings.
 
 ### Key Features
