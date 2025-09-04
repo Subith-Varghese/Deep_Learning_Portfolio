@@ -52,7 +52,7 @@ Example Outputs
 ### 🎬 Movie Review Sentiment Analysis (LSTM + Word2Vec)
 https://github.com/Subith-Varghese/Moview_Review_Sentiment_Analysis/tree/main
 
--
+
 An end-to-end solution to analyze IMDb movie reviews and classify them as Positive, Neutral, or Negative with star ratings.
 
 Key Features
@@ -81,7 +81,7 @@ Stars → ★★★★⯪
 ###  Fake News Detector (LSTM + Word2Vec) 
 https://github.com/Subith-Varghese/Fake_news_detector
 
--
+
 A deep learning application that detects whether a news article is Fake or Real using LSTM with Word2Vec embeddings.
 
 ### Key Features
