@@ -50,7 +50,7 @@ Example Outputs
 ## 🧠 NLP Projects
 
 ### 🎬 Movie Review Sentiment Analysis (LSTM + Word2Vec)
-https://github.com/Subith-Varghese/Moview_Review_Sentiment_Analysis/tree/main
+https://github.com/Subith-Varghese/Moview_Review_Sentiment_Analysis
 
 
 An end-to-end solution to analyze IMDb movie reviews and classify them as Positive, Neutral, or Negative with star ratings.
